@@ -46,6 +46,7 @@ This project is part of a personal learning journey to sharpen skills in web dev
 
 - Node.js
 - PostgreSQL
+- Python
 - Git
 
 ### Steps
