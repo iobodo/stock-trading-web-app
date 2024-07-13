@@ -29,7 +29,7 @@ This project is part of a personal learning journey to sharpen skills in web dev
 - Portfolio management
 - Interactive charts with TradingView
 - Real-time notifications and updates
-- Future ML/AI capabilities for advanced data analysis
+- ML/AI capabilities for advanced data analysis
 
 ## Tech Stack
 
