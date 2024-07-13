@@ -200,6 +200,3 @@ stock-trading-web-app/
 
 This is a personal project aimed at learning and skill development. Contributions are welcome if you have suggestions or improvements to offer. Please open an issue or submit a pull request.
 
----
-
-Feel free to customize this README as you add more features or make changes to the project. If you have any questions or need further assistance, don't hesitate to ask.
