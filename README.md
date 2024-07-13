@@ -19,7 +19,7 @@ A web application for stock trading with DCA (Dollar-Cost Averaging) functions, 
 
 ## Introduction
 
-This project is part of a personal learning journey to sharpen skills in web development, data analytics, and future integration of machine learning (ML) and artificial intelligence (AI) capabilities. The goal is to build a professional-grade web app that allows users to manage their stock portfolios, implement DCA strategies, and visualize data with TradingView.
+This project is part of a personal learning journey to sharpen skills in web development, data analytics, and  integration of machine learning (ML) and artificial intelligence (AI) capabilities. The goal is to build a professional-grade web app that allows users to manage their stock portfolios, implement DCA strategies, and visualize data with TradingView.
 
 ## Features
 
