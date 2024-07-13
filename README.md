@@ -4,7 +4,7 @@
 
 # Stock Trading Web App
 
-A web application for stock trading with DCA (Dollar-Cost Averaging) functions, a comprehensive dashboard, and TradingView integration. This project aims to provide a fully functional trading platform as a final course project.
+A web application for stock trading with DCA (Dollar-Cost Averaging) functions, a comprehensive dashboard, and TradingView integration. This personal project aims to provide a fully functional trading platform as a final  project.
 
 ## Table of Contents
 
