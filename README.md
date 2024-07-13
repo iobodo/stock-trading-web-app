@@ -34,10 +34,10 @@ This project is part of a personal learning journey to sharpen skills in web dev
 ## Tech Stack
 
 - **Frontend:** React.js
-- **Backend:** Node.js, Express.js
+- **Backend:** Flask, Node.js, Express.js
 - **Database:** PostgreSQL
 - **Real-time Data:** WebSockets
-- **API Integration:** Trading platform APIs (e.g., Alpaca)
+- **API Integration:** Trading platform APIs (IRBK, Alpaca)
 - **Charting:** TradingView Charting Library
 
 ## Installation
@@ -47,6 +47,7 @@ This project is part of a personal learning journey to sharpen skills in web dev
 - Node.js
 - PostgreSQL
 - Python
+- Flask
 - Git
 
 ### Steps
