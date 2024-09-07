@@ -62,13 +62,22 @@ Use Anvil’s background tasks and email services for real-time trade updates.
 
 Week 1-2: Project Setup and Authentication
 
+
+
+
 Set up the Anvil app with basic navigation, authentication, and data tables for users and portfolios.
+
+
 Week 3-4: DCA Logic and Stock Data Integration
 
 Implement the DCA strategy in Python and fetch stock data from an API using Anvil’s server modules.
+
+
 Week 5-6: Portfolio Management and Notifications
 
 Build portfolio tracking features and set up background tasks for real-time notifications.
+
+
 Week 7-8: Charting and Visualization
 
 Use Plotly for charting or integrate TradingView for stock charts and visualization.
